@@ -9,5 +9,5 @@ st.markdown("I'm a young professional with a background in statistics, which I'v
 
 st.subheader("2024")
 st.markdown("AI Engineer, Fluence")
-st.markdown("Built and deployed My Domain Expert, a AI-powered chatbot trained to answer questions on internal company documentation and public market documents.")
+st.markdown("Built and deployed My Domain Expert, a AI-powered chatbot trained to answer questions on internal company documentation and public market operating information.")
 
